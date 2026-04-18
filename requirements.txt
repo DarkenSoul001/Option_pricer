@@ -1,0 +1,13 @@
+# Unified Option Pricing Engine - Core Dependencies
+streamlit
+numpy
+pandas
+scipy
+matplotlib
+plotly
+scikit-learn
+xgboost
+numba
+cupy-cuda12x  # GPU acceleration
+tensorflow     # LSTM support
+torch         # RL/ML support
